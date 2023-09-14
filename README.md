@@ -76,8 +76,7 @@ Transfer learning.
 Часть 1 - [Введение в Python.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs1-Python/README.md)
 Часть 2 - [Разработка систем ИИ.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs2-DL/README.md)
 
-Списки групп и статус выполнения лабораторных работ можно будет найти в гугл-таблице.
-TBR
+Списки групп и статус выполнения лабораторных работ можно будет найти в [гугл-таблице](https://docs.google.com/spreadsheets/d/1R77CN5dvBpbXgZ-iWPGxt1W7K12V8aHv/edit?usp=drive_link&ouid=107640243735509757400&rtpof=true&sd=true).
 
 
 ## Литература и дополнительные источники  
