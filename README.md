@@ -6,8 +6,8 @@
 Материалы курса за 2020-21 годы расположены [здесь](https://github.com/Daikon46/AISys_SamU/tree/main/Presentations/2020-21) и 2022-2023 [здесь](https://github.com/Daikon46/AISys_SamU/tree/main/Presentations/2022-23).  
 
 ## График проведения курса 2023-2024
-Лекции проходят онлайн в BBB по вторникам чётной недели с 17:00 до 18:35.
-https://bbb.ssau.ru/b/e7d-aji-rwu-8n5
+Лекции проходят онлайн в BBB по вторникам чётной недели с 17:00 до 18:35.  
+https://bbb.ssau.ru/b/e7d-aji-rwu-8n5  
 
 ## Лекционный план 2023-2024  
 
@@ -73,9 +73,9 @@ Transfer learning.
 
 ## План лабораторных работ
 
-Материалы лабораторных работ:
-Часть 1 - [Введение в Python.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs1-Python/README.md)
-Часть 2 - [Разработка систем ИИ.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs2-DL/README.md)
+Материалы лабораторных работ:  
+Часть 1 - [Введение в Python.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs1-Python/README.md)  
+Часть 2 - [Разработка систем ИИ.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs2-DL/README.md)  
 
 Списки групп и статус выполнения лабораторных работ можно будет найти в [гугл-таблице](https://docs.google.com/spreadsheets/d/1R77CN5dvBpbXgZ-iWPGxt1W7K12V8aHv/edit?usp=drive_link&ouid=107640243735509757400&rtpof=true&sd=true).
 
