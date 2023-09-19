@@ -6,7 +6,8 @@
 Материалы курса за 2020-21 годы расположены [здесь](https://github.com/Daikon46/AISys_SamU/tree/main/Presentations/2020-21) и 2022-2023 [здесь](https://github.com/Daikon46/AISys_SamU/tree/main/Presentations/2022-23).  
 
 ## График проведения курса 2023-2024
-TBA  
+Лекции проходят онлайн в BBB по вторникам чётной недели с 17:00 до 18:35.
+https://bbb.ssau.ru/b/e7d-aji-rwu-8n5
 
 ## Лекционный план 2023-2024  
 
