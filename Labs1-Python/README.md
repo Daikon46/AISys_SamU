@@ -1,7 +1,9 @@
 # Порядок сдачи первой части лабораторных
 ----------------------------
 
-Для выполнения лабораторных работ требуется сначала установить на свой компьютер Python 3.10. Скачать можно [здесь](https://www.python.org/downloads/).
+Для выполнения лабораторных работ можно использовать [Google Colab](https://colab.research.google.com/) или Jupyter Notebook.
+
+Чтобы работать с Jupyter Notebook на своей локальной машине требуется сначала установить Python 3.10. Скачать можно [здесь](https://www.python.org/downloads/).
 Убедитесь что при установке поставили галочку рядом с пунктом add python 3.10.x to PATH
 
 Далее требуется установить Jupyter Notebook, гайд [здесь](https://jupyter.org/install).
@@ -9,7 +11,7 @@
 Для windows:
 - Нажать win+R
 - Напечатать во всплывшем окне cmd
-- В появившейся консоли ввести pip install jupyterlab или pip install notebook
+- В появившейся консоли ввести pip install jupyterlab (обладает большим функционалом) или pip install notebook
 - Для того чтобы открыть jupyter в консоли вводим jupyter-lab или jupyter-notebook в зависимости от предыдущего шага
 
 Так же можно это сделать через PowerShell:

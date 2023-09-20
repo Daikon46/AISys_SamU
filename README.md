@@ -5,6 +5,8 @@
 
 Материалы курса за 2020-21 годы расположены [здесь](https://github.com/Daikon46/AISys_SamU/tree/main/Presentations/2020-21) и 2022-2023 [здесь](https://github.com/Daikon46/AISys_SamU/tree/main/Presentations/2022-23).  
 
+Мощный курс по нейронным сетям на [Coursera](https://www.coursera.org/specializations/deep-learning)  
+
 ## График проведения курса 2023-2024
 Лекции проходят онлайн в BBB по вторникам чётной недели с 17:00 до 18:35.  
 https://bbb.ssau.ru/b/e7d-aji-rwu-8n5  
@@ -71,14 +73,24 @@ Transfer learning.
 Базовые архитектуры - AlexNet, VGG, GoogleNet, ResNet, UNET и другие.  
 
 
-## План лабораторных работ
+## План лабораторных работ  
 
 Материалы лабораторных работ:  
 Часть 1 - [Введение в Python.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs1-Python/README.md)  
 Часть 2 - [Разработка систем ИИ.](https://github.com/Daikon46/AISys_SamU/blob/main/Labs2-DL/README.md)  
 
+Лабораторные 2 части должны быть выполнены в формате notebook (.ipynb) и иметь описательную часть в виде текстовых ячеек (markdown) перед ячейками с кодом. Выводы делаются тоже в текстовой ячейке, если указано в задании. 
+
 Списки групп и статус выполнения лабораторных работ можно будет найти в [гугл-таблице](https://docs.google.com/spreadsheets/d/1R77CN5dvBpbXgZ-iWPGxt1W7K12V8aHv/edit?usp=drive_link&ouid=107640243735509757400&rtpof=true&sd=true).
 
+Расписание:  
+6301 - [по календарю университета](https://ssau.ru/rasp?groupId=961527765)  
+6302 (1) - Понедельник чётной недели с 11:30 до 15:05 [онлайн](https://bbb.ssau.ru/b/e7d-aji-rwu-8n5)  
+6302 (1) - Суббота нечётной недели с 09:45 до 13:05 [онлайн](https://bbb.ssau.ru/b/e7d-aji-rwu-8n5)  
+6303 (1) - [по календарю университета](https://ssau.ru/rasp?groupId=961527765)  
+6303 (2) - Четверг чётной недели с 11:30 до 15:05 очно (516-14) и [онлайн](https://bbb.ssau.ru/b/e7d-aji-rwu-8n5)  
+  
+Ссылка для онлайн подключения : https://bbb.ssau.ru/b/e7d-aji-rwu-8n5
 
 ## Литература и дополнительные источники  
 
