@@ -1,6 +1,6 @@
 # Курс "Системы Искусственного Интеллекта" Самарского Университета. 
 
-Контакты: t.me/Daikon46 или rozhkov.ma@ssau.ru (Рожков Мирослав Андреевич)  
+Контакты: t.me/Daikon46 или rozhkov.ma@ssau.ru ([Рожков Мирослав Андреевич](https://ssau.ru/staff/375273794-rozhkov-miroslav-andreevich/edu))  
 Можно отправлять готовые лабораторные в телеграм или на почту.  
 
 Курс основывается на работах учёных [Института Искусственного Интеллекта](https://ai.ssau.ru/) Самарского Университета: д.т.н., [Артем Владимирович Никоноров](https://ssau.ru/staff/66320001-nikonorov-artem-vladimirovich), [Виктория Витальевна Евдокимова](https://ssau.ru/staff/304968209-evdokimova-viktoriya-vitalevna/edu), [Никита Александрович Фирсов](https://ssau.ru/staff/441332557-firsov-nikita-aleksandrovich/edu). Видеозаписи лекций материнского курса можно найти на youtube канале [Никонорова А.В.](https://www.youtube.com/@artemnikonorov5601)
