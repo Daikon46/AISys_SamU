@@ -87,7 +87,7 @@ Transfer learning.
 Списки групп и статус выполнения лабораторных работ можно будет найти в [гугл-таблице](https://docs.google.com/spreadsheets/d/1R77CN5dvBpbXgZ-iWPGxt1W7K12V8aHv/edit?usp=drive_link&ouid=107640243735509757400&rtpof=true&sd=true).
 
 Расписание:  
-6301 (1) - Четверг нечётной недели с 15:15 до 18:35 [онлайн](https://bbb.ssau.ru/b/e7d-aji-rwu-8n5)  
+6301 (1) - Четверг нечётной недели с 15:15 до 18:35 очно (516-14) и [онлайн](https://bbb.ssau.ru/b/e7d-aji-rwu-8n5)  
 6301 (2) - [по календарю университета](https://ssau.ru/rasp?groupId=961527765)  
 6302 (1) - Понедельник чётной недели с 11:30 до 15:05 [онлайн](https://bbb.ssau.ru/b/e7d-aji-rwu-8n5)  
 6302 (2) - Суббота нечётной недели с 09:45 до 13:05 [онлайн](https://bbb.ssau.ru/b/e7d-aji-rwu-8n5)  
