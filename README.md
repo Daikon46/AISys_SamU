@@ -63,6 +63,7 @@ CPU vs GPU vs TPU.
 
 Активационные функции, обработка данных сетью.  
 Пакетная нормализация и другие трюки.  
+[Batch Normalization](https://arxiv.org/pdf/1502.03167.pdf)  
 Transfer learning.
 
 **Лекция 8. Обучение СНС, часть 2.**  
